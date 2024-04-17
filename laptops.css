@@ -1,0 +1,37 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/1943230.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+header {
+    background-color: rgb(51, 94, 129);
+    border: #333;
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+  }
+header li{
+    display:inline;
+}
+#neeh:hover{
+    transform: scale(1.1);
+}
+#neeh2:hover{
+    transform: scale(1.01);
+}
+footer {
+    background-color:rgb(51, 94, 129);
+    color: #fff;
+    padding: 7px;
+    text-align: center;
+    font-family: 'Trebuchet MS';
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
